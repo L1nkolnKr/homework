@@ -1,0 +1,22 @@
+.someClass {
+
+}
+
+.error {
+    border: 1px solid red;
+}
+
+.input{
+    margin:15px;
+    background: blueviolet;
+    color: cyan;
+}
+
+.errorInput{
+    margin: 15px;
+    background: blueviolet;
+    color: cyan;
+
+    border: 1px solid red;
+    outline: none;
+}
